@@ -9,5 +9,5 @@ Enhanced GUI: I'm in the process of designing a new and more intuitive graphical
 2.Delving into History:
 Retrace Your Steps: Ever wanted to look back at previous calculations? I'm integrating a history function, allowing you to store, retrieve, and revisit past calculations with ease.
 
-3. Advanced Calculations:
+3.Advanced Calculations:
 Deep Dive into Math: For the math enthusiasts, I'm adding a range of advanced functions. Whether it's intricate trigonometry, in-depth logarithms, or support for complex numbers, I've got you covered.
